@@ -1,0 +1,11 @@
+{
+    "name": "Platinum M4A1",
+    "description": "A unique, Platinum M4A1 NFT",
+    "image": "https://imgur.com/Que27aQ.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      }
+    ]
+  } 
